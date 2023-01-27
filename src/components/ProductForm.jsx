@@ -1,6 +1,12 @@
 function ProductForm() {
+
+    const envioForm = (e)=>{
+        console.log("prueba")
+        e.preventDefault()
+    }
+
   return (
-    <form>
+    <form onClick={envioForm}>
         <label>
             Nombre
         </label>
