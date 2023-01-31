@@ -1,14 +1,18 @@
 {
-    "products": [
-        {
-            "nombre": "Product 1",
-            "precio": 100,
-            "cantidad": 1 
-        },
-        {
-            "nombre": "Product 2",
-            "precio": 200,
-            "cantidad": 1 
-        }
-    ]
+  "products": [
+    {
+      "nombre": "wilter",
+      "precio": "1",
+      "cantidad": "1",
+      "disponible": false,
+      "id": 1
+    },
+    {
+      "nombre": "wilter",
+      "precio": "a",
+      "cantidad": "w",
+      "disponible": true,
+      "id": 2
+    }
+  ]
 }
